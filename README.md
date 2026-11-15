@@ -24,3 +24,11 @@ El repositorio incluye el diccionario de clasificación de cuentas elaborado par
 Los scripts SQL permiten reconstruir el modelo relacional, previa importación de los archivos CSV correspondientes. La redistribución del archivo financiero procesado queda sujeta a las condiciones de utilización de la información de origen.
 
 **Fuente:** https://www.byma.com.ar/relacion-con-inversores/informacion-financiera
+
+### Uso de herramientas de inteligencia artificial
+
+Durante el desarrollo de este proyecto se utilizó ChatGPT como herramienta de asistencia técnica y aprendizaje, principalmente para orientar la construcción de consultas SQL y medidas DAX, resolver dudas, revisar procedimientos y mejorar la documentación.
+
+El procesamiento de los datos, la implementación del modelo en PostgreSQL y Power BI, la ejecución de consultas y las comprobaciones de resultados se realizaron mediante trabajo práctico sobre las herramientas correspondientes, con verificaciones adicionales frente a los datos originales.
+
+Por lo tanto, el proyecto refleja un proceso de aprendizaje y aplicación práctica de herramientas de análisis financiero y de datos, desarrollado con asistencia de IA y sometido a comprobaciones técnicas y financieras.

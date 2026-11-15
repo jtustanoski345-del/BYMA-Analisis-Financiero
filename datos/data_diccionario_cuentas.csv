@@ -1,0 +1,24 @@
+﻿Cuenta,CategoriaFinanciera,TipoPartida,OrdenPresentacion
+Servicios ADCVN,Ingresos de depositaria,Componente,1
+Servicios ARyP,Ingresos de depositaria,Componente,2
+Servicios Adicionales,Ingresos de depositaria,Componente,3
+Ingresos Depositaria,Ingresos de depositaria,Subtotal,4
+Negociación C&L,Ingresos de mercado,Componente,5
+Datos de Mercado,Ingresos de mercado,Componente,6
+Otros,Ingresos de mercado,Componente,7
+Ingresos Mercado,Ingresos de mercado,Subtotal,8
+Otros Ingresos Operativos,Otros ingresos operativos,Componente,9
+Total ingresos operativos,Resultado operativo,Total,10
+Total gastos operativos,Gastos operativos,Total,11
+EBITDA,Resultado operativo,Resultado,12
+EBITDA Mg.,Indicadores,Porcentaje,13
+D&A,Gastos operativos,Componente,14
+EBIT,Resultado operativo,Resultado,15
+EBIT Mg.,Indicadores,Porcentaje,16
+Ingresos financieros,Resultado financiero,Componente,17
+Participación en otras compañías,Otros resultados,Componente,18
+Otros ingresos/egresos,Otros resultados,Componente,19
+EBT,Resultado antes de impuestos,Resultado,20
+Impuesto a las ganancias,Impuestos,Componente,21
+Resultado Neto,Resultado final,Resultado,22
+FX PROMEDIO TRIMESTRAL (MEP),Variables auxiliares,Tipo de Cambio,23
